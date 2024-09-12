@@ -11,11 +11,9 @@ This project is a simplified clone of the Netflix user interface, built using Re
 
 ## Technologies Used
 
-- **React.js:** JavaScript library for building user interfaces.
 - **HTML:** Markup language for structuring the content.
 - **CSS:** Stylesheet language for styling the interface.
 - **JavaScript:** Programming language for adding interactivity.
-- **TMDB API:** External API for fetching movie and TV show data.
 
 ## Installation and Setup
 
