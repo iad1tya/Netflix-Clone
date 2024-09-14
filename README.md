@@ -24,7 +24,7 @@
 ## 🖥️ Preview
 
 <p align="center">
-  <img src="/placeholder.svg?height=400&width=600" alt="Netflix Clone Preview"/>
+  <img src="https://i.postimg.cc/g28bkVyj/Opera-Snapshot-2024-09-12-220650-iad1tya-github-io.png" alt="Netflix Clone Preview"/>
 </p>
 
 ## 🛠️ Technologies Used
